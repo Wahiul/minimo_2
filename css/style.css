@@ -57,7 +57,7 @@ header{
 /* content part */
 .photodiary{
     width: 76%;
-    margin: 100px 0px 140px 240px;
+    margin: 100px auto;
 }
 .photodiary h5{
     color: #b4ad9e;
